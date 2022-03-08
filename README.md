@@ -12,3 +12,9 @@ My name is Rafael Rocha and I'm from Brazil. I started working as a developer in
 - I love sports, especially soccer (⚽️), ice hockey (🏒) and Formula 1 (🏎️)
 - I like playing computer games (:desktop_computer:), specially the RPG and strategy genres.
 - I enjoy reading fantasy books (📚) and I even tried my hand writing one! Still working on it...
+
+<div align="left">
+<a href="https://github.com/rafarocha28">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafarocha28&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafarocha28&layout=compact&langs_count=10&theme=monokai"/>
+</div>
