@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Rafael Rocha and I'm from Brazil. I started working as a developer in 2011 and I have experience in few programming languages and frameworks such as Delphi, Javascript, React, React Native and C#. I'm always trying to learn new and exciting things and I'm always up for some serious hard work.
+My name is Rafael Rocha and I'm from Brazil. I started working as a developer in 2011 and I have experience in few programming languages and frameworks such as C#, NodeJS, Javascript, React, React Native and Delphi. I'm always trying to learn new and exciting things and I'm always up for some serious hard work.
 
 
 📫 How to reach me
@@ -10,7 +10,7 @@ My name is Rafael Rocha and I'm from Brazil. I started working as a developer in
 ⚡ Fun facts: 
 
 - I love sports, especially soccer (⚽️), ice hockey (🏒) and Formula 1 (🏎️)
-- I like playing computer games (:desktop_computer:), specially the RPG and strategy genres.
+- I like playing computer games (:desktop_computer:), specially RPG and strategy.
 - I enjoy reading fantasy books (📚) and I even tried my hand writing one! Still working on it...
 
 <div align="left">
